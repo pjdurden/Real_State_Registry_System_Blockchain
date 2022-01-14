@@ -1,6 +1,6 @@
-# CosmWasm Starter Pack
+# Real_State_Registry_System_Blockchain
 
-This is a template to build smart contracts in Rust to run inside a
+This is a Smart Contract for Real Estate Registry System
 [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) module on all chains that enable it.
 To understand the framework better, please read the overview in the
 [cosmwasm repo](https://github.com/CosmWasm/cosmwasm/blob/master/README.md),
