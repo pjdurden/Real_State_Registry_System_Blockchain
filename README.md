@@ -1,4 +1,4 @@
-# Real_State_Registry_System_Blockchain
+# Real State Registry System Blockchain
 
 This is a Smart Contract for Real Estate Registry System
 [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) module on all chains that enable it.
